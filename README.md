@@ -15,13 +15,17 @@ _A brief description of your project._
 
 _Provide an overview of what your project is about._
 
+
 ## Features
 
 _List the key features or functionalities of your project._
+- chat
+- video calls
 
 ## Installation
 
 _Provide instructions on how to install or set up your project._
+Will get back to you on this
 
 ## Usage
 
